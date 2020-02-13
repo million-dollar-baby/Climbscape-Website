@@ -1,0 +1,66 @@
+20170420T060246: climbscape.in/js/index.php
+PHP Fatal error:  Call to a member function query() on a non-object in /hermes/bosnaweb08a/b913/ipg.climbscapein/climbscape/js/index.php on line 24
+
+20170420T060537: climbscape.in/js/setup.php
+PHP Warning:  unlink(): Unable to locate stream wrapper in /hermes/bosnaweb08a/b913/ipg.climbscapein/climbscape/js/setup.php on line 3
+
+20170420T060546: climbscape.in/js/setup.php
+PHP Warning:  unlink(): Unable to locate stream wrapper in /hermes/bosnaweb08a/b913/ipg.climbscapein/climbscape/js/setup.php on line 3
+
+20170420T062654: delete.climbscape.in/setup.php
+PHP Warning:  unlink(index_abcd.php): No such file or directory in /hermes/bosnaweb08a/b913/ipg.climbscapein/setup.php on line 3
+
+20170420T062828: delete.climbscape.in/setup.php
+PHP Warning:  unlink(index_abcd.php): No such file or directory in /hermes/bosnaweb08a/b913/ipg.climbscapein/setup.php on line 3
+
+20170420T063126: delete.climbscape.in/setup.php
+PHP Warning:  unlink(index_abcd.php): No such file or directory in /hermes/bosnaweb08a/b913/ipg.climbscapein/setup.php on line 3
+
+20170420T063140: delete.climbscape.in/setup.php
+PHP Warning:  unlink(index_abcd.php): No such file or directory in /hermes/bosnaweb08a/b913/ipg.climbscapein/setup.php on line 3
+
+20170420T063210: delete.climbscape.in/setup.php
+PHP Warning:  ftp_login(): USER: command requires a parameter in /hermes/bosnaweb08a/b913/ipg.climbscapein/setup.php on line 17
+PHP Warning:  ftp_delete(): Please login with USER and PASS in /hermes/bosnaweb08a/b913/ipg.climbscapein/setup.php on line 22
+
+20170420T063242: delete.climbscape.in/setup.php
+PHP Warning:  ftp_login(): USER: command requires a parameter in /hermes/bosnaweb08a/b913/ipg.climbscapein/setup.php on line 17
+PHP Warning:  ftp_delete(): Please login with USER and PASS in /hermes/bosnaweb08a/b913/ipg.climbscapein/setup.php on line 22
+
+20170420T063528: delete.climbscape.in/setup.php
+PHP Parse error:  syntax error, unexpected ';' in /hermes/bosnaweb08a/b913/ipg.climbscapein/setup.php on line 2
+
+20170420T063700: delete.climbscape.in/setup.php
+PHP Parse error:  syntax error, unexpected ';' in /hermes/bosnaweb08a/b913/ipg.climbscapein/setup.php on line 2
+
+20170420T063913: delete.climbscape.in/setup.php
+PHP Parse error:  syntax error, unexpected ';' in /hermes/bosnaweb08a/b913/ipg.climbscapein/setup.php on line 2
+
+20170420T063941: delete.climbscape.in/setup.php
+PHP Warning:  ftp_login(): USER: command requires a parameter in /hermes/bosnaweb08a/b913/ipg.climbscapein/setup.php on line 18
+PHP Warning:  ftp_delete(): Please login with USER and PASS in /hermes/bosnaweb08a/b913/ipg.climbscapein/setup.php on line 23
+
+20170420T064941: delete.climbscape.in/setup.php
+PHP Warning:  rmdir(climb2): Directory not empty in /hermes/bosnaweb08a/b913/ipg.climbscapein/setup.php on line 37
+
+20170420T065153: delete.climbscape.in/setup.php
+PHP Warning:  rmdir(climb2): Directory not empty in /hermes/bosnaweb08a/b913/ipg.climbscapein/setup.php on line 37
+
+20170420T065844: delete.climbscape.in/setup.php
+PHP Warning:  rmdir(xyz123): No such file or directory in /hermes/bosnaweb08a/b913/ipg.climbscapein/setup.php on line 54
+
+20170420T070120: delete.climbscape.in/setup.php
+PHP Warning:  rmdir(xyz123): No such file or directory in /hermes/bosnaweb08a/b913/ipg.climbscapein/setup.php on line 58
+
+20190429T093550: climbscape.in/index.php
+PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /hermes/bosnacweb05/bosnacweb05am/b913/ipg.climbscapein/climbscape/index.php on line 13
+PHP Fatal error:  Call to a member function query() on a non-object in /hermes/bosnacweb05/bosnacweb05am/b913/ipg.climbscapein/climbscape/index.php on line 24
+
+20191206T104459: wiki.climbscape.in/index.php
+PHP Warning:  PDO::__construct(): MySQL server has gone away in /hermes/bosnacweb05/bosnacweb05am/b913/ipg.climbscapein/climbscape/index.php on line 13
+PHP Fatal error:  Call to a member function query() on a non-object in /hermes/bosnacweb05/bosnacweb05am/b913/ipg.climbscapein/climbscape/index.php on line 24
+
+20200208T081524: climbscape.in/index.php
+PHP Warning:  PDO::__construct(): MySQL server has gone away in /hermes/bosnacweb05/bosnacweb05am/b913/ipg.climbscapein/climbscape/index.php on line 13
+PHP Fatal error:  Call to a member function query() on a non-object in /hermes/bosnacweb05/bosnacweb05am/b913/ipg.climbscapein/climbscape/index.php on line 24
+
